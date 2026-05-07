@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+pillow
+scikit-learn
+seaborn
+torch
+torchvision
+nbformat
+nbclient
+jupyter
+python-pptx
